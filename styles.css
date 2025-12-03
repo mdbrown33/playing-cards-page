@@ -22,10 +22,13 @@
     font-size: 24px;
     text-align: center;
     background-color: white;
+    box-shadow: 1px 1px 10px darkgray;
 }
 
 .left {
     align-self: flex-start;
+    margin-left: 5px;
+    margin-top: 2px;
 }
 
 .middle, .big {
@@ -47,6 +50,15 @@
     transform: rotate(180deg);
 }
 
+.upside-down {
+    margin-right: 5px;
+    margin-bottom: 2px;
+}
+
 .big {
     font-size: 48px;
+}
+
+#heart, #diamond {
+    color: red;
 }
