@@ -4,6 +4,10 @@ This is my submission for the first CSS certification project on freecodecamp.or
 
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-page-of-playing-cards/build-a-page-of-playing-cards
 
+![4 finished playing cards.](final1.png "Final Project Image")
+
+<br>
+
 Build an app that is functionally similar to this example project [available at project link]. Try not to copy the example project, give it your own personal style.
 
 User Stories:
