@@ -2,6 +2,8 @@
 
 This is my submission for the first CSS certification project on freecodecamp.org. This project is part of the Responsive Web Design Certification, which in itself is also a section of the Certified Full Stack Developer Curriculum. I have listed the link to the project prompt, project instructions, and user stories that must be included in the project.
 
+<a href="https://www.matthewdbrown.dev/playing-cards-page">Link to live project</a>
+
 https://www.freecodecamp.org/learn/responsive-web-design-v9/lab-page-of-playing-cards/build-a-page-of-playing-cards
 
 ![4 finished playing cards.](final1.png "Final Project Image")
